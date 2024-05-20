@@ -65,6 +65,6 @@ From evaluating the distribution of H1N1 vaccine, it was established that only a
 
 
 For More Information
-Notebook https://github.com/pmgitonga/Phase_3_Project/blob/main/Phase_3_Project.ipynb
+Notebook https://github.com/pmgitonga/Phase_3_Project/blob/master/Phase_3_Project.ipynb
 
-Presentation https://github.com/pmgitonga/Phase_3_Project/blob/main/Presentation.pdf
+Presentation https://github.com/pmgitonga/Phase_3_Project/blob/master/Presentation.pdf
